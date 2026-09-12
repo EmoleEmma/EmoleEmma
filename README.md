@@ -48,23 +48,16 @@ Git · GitHub · Linux · Docker
 ## 📌 Selected Projects
 
 ### Bearilly
-A learning-focused Progressive Web App built with
-Next.js and TypeScript, featuring learning,
-assessment, submission, and AI-assisted functionality.
 
-### Security Tools
-A collection of Python security and utility tools,
-including network traffic analysis, password security,
-encryption/decryption, and port scanning.
-
-### Web Portfolio
-A collection of frontend projects including landing pages
-and a React weather dashboard.
+A learning-focused Progressive Web App built with Next.js and TypeScript, featuring learning, assessment, submission, and AI-assisted functionality.
 
 ### RoastMyCV
-A CV feedback application focused on helping technology
-job seekers improve their resumes and identify relevant
-opportunities.
+
+A CV feedback application focused on helping technology job seekers improve their resumes and identify relevant opportunities.
+
+### Weather Dashboard
+
+A React-based weather dashboard built as part of my frontend development work, focused on consuming weather data through an API and presenting it through a responsive user interface.
 
 ## 📚 Currently Learning
 
